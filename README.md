@@ -11,7 +11,7 @@ get compiled TeamCityNetPublisherPlugin.zip from dist folder
 
 
 Installation
-=====--------
+=====~~~-----
 Copy TeamCityNetPublisherPlugin.zip to plugins directory (for windows %USERPROFILE%\.BuildServer\plugins) and resart TeamCity server
 
 Using
