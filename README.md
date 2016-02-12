@@ -20,7 +20,7 @@ Add "Publish artifacts to specific path" build feature and specify path to publi
 Artifacts will published only for success builds.
 TemCity build server acount should have permissions to specified publishing path.
 
-
+Dk branch
 If you have any questions feel free to ask me  
 
     Eduard Kibort
